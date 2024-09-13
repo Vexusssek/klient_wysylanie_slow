@@ -1,0 +1,1 @@
+# klient_wysylanie_slow
